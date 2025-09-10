@@ -268,3 +268,36 @@ header{
 
  }
 
+ /* Instagram Section */
+
+ .parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+ }
+.parent h3{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+}
+.parent p{
+    width: 594px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #27272799;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    text-align: center;
+
+}
+.insta-img{
+    max-width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 128px auto;
+    gap: 24px;
+}
+
