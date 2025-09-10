@@ -16,6 +16,7 @@
     font-weight: bold;
     padding: 20px 43px;
     font-size: 20px;
+    border: none;
 }
 
 /* Header */
@@ -214,4 +215,56 @@ header{
         align-items: center;
 }
 
- 
+ /* Section 3 */
+
+ .section-three{
+
+    background-color:#E554730D ;
+    margin: 0 auto 128px auto;
+
+ }
+.discount{
+    display: flex;
+    gap: 186px;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .dis-left{
+    width:594px;
+    height: 228px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+ }
+
+ .dis-right{
+    width: 318px;
+    height: 420px;
+    margin: 94px auto 106px 0;
+ } 
+
+ .dis-left h3{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+ }
+
+ .off-color{
+    color: #E55473;
+ }
+
+ .dis-left p{
+    width: 594px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #27272799;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    line-height: 30px;
+    text-align: center;
+
+ }
+
