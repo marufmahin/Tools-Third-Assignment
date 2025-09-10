@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.lato-regular{
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn-primary{
+    background-color: #E55473;
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 20px 43px;
+    font-size: 20px;
+}
+
+/* Header */
+header{
+    height: 850px;
+    max-width: 100%; 
+    background-color: #E554731A;
+    margin-bottom: 118px;
+    
+}
+.all-header{
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    gap: 97px;
+}
+
+.left-part{
+    width: 50% ;
+    margin: 147px 0;
+}
+
+.heading{
+    font-weight: 800px;
+    font-size: 80px;
+    color: #272727;
+
+}
+.paragraph{
+    font-size: 18px;
+    color: #272727;
+    width: 634px;
+    opacity: 60%;
+    line-height: auto;
+    padding: 32px 0 32px 0;
+}
+
+.flower-img{
+    width: 50%;
+    height: auto;
+    margin-top: 50px;
+    
+}
+
+   
+ 
+
