@@ -62,6 +62,8 @@ header{
 
 /* Main section */
 
+       /* Section 1 */
+
 .description{
     max-width: 1440px;
     margin: 0 auto 48px auto;
@@ -156,5 +158,60 @@ header{
   margin-bottom: 32px;
 
 }
- 
 
+/* Section 2 */
+
+.section-two{
+    max-width: 1440px;
+    height: 320px;
+    margin: 0 auto 128px auto;
+    background-color: #2727270D;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border-radius: 8px;
+
+}
+.services{
+    width: auto;
+    display: flex;
+    gap: 100px; 
+  
+}
+.service1{
+        width: auto;
+        height: 147px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        justify-content: center;
+        align-items: center;
+}
+
+.service-description{
+    font-size: 24px;
+    font-weight: 600;
+    color: #272727CC;
+    text-align: center;
+
+}
+.service2{
+        width: auto;
+        height: 147px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        justify-content: center;
+        align-items: center;
+}
+.service3{
+        width: auto;
+        height: 147px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        justify-content: center;
+        align-items: center;
+}
+
+ 
