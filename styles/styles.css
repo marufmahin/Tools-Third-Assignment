@@ -301,3 +301,59 @@ header{
     gap: 24px;
 }
 
+/* Deals Section */
+
+.deals{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.info{
+    width: 374px;
+    height: 94px;
+    margin-bottom: 48px;
+}
+
+.info h3{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    text-align: center;
+}
+
+.info p{
+    font-size: 18px;
+    font-weight: normal;
+    color: #27272799;
+    margin-top: 16px;
+    text-align: center;
+}
+
+.search{
+    max-width: 866px;
+    display: flex;
+    gap: 16px;
+}
+
+.search input{
+    width: 700px;
+    border-radius: 8px;
+    background-color: white;
+    color: #27272799;
+    padding: 23px 0 22px 22px;
+    border: none;
+}
+
+.last-parent{
+    max-width: 1440px;
+    height: 449px;
+    background-image:url(../Asset/Rectangle\ 9.png);
+    border-radius: 8px;
+    margin: 0 auto 128px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
