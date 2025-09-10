@@ -60,6 +60,101 @@ header{
     
 }
 
+/* Main section */
+
+.description{
+    max-width: 1440px;
+    margin: 0 auto 48px auto;
+    width: 595px;
+    height: 132px;
+}
+
+.our-heading{
+    font-weight: 800px;
+    font-size: 40px;
+    color: #272727;
+    text-align: center;
+}
+
+.our-paragraph{
+    font-weight: 400px;
+    font-size: 18px;
+    color: #272727;
+    opacity: 60%;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.card-container{
+   max-width: 1440px;
+   display: flex;
+   gap: 24px;
+   margin: 0 auto 128px auto ;
+}
+
+/* First card */
+.first-card{
+    max-width: 464px;
+    max-height: 538px;
+   background-color: #A7216226;
+   border-top-left-radius: 232px; 
+     border-top-right-radius: 232px; 
+}
+.first-card-img{
+    max-width: auto;
+    max-width: auto;
+  overflow: hidden;
+  padding: 110px 78px 0 76px;
+  margin-bottom: 32px;
+
+}
+
+.flower-name{
+     background-color: white;
+    font-size: 24px;
+     font-weight: 700;
+   text-decoration: underline;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+/* Second Card */
+
+.second-card{
+     max-width: 464px;
+    max-height: 538px;
+    background-color: #0597A026;
+   border-top-left-radius: 232px; 
+     border-top-right-radius: 232px; 
+     
+}
+.second-card-img{
+    max-width: auto;
+    max-width: auto;
+  overflow: hidden;
+  padding: 117px 47px 51px 47px;
+  margin-bottom: 32px;
+}
+
+/* Third Card */
+
+.Third-card{
+     max-width: 464px;
+    max-height: 538px;
+    background-color: #477D1126;
+   border-top-left-radius: 232px; 
+     border-top-right-radius: 232px; 
+     
+}
    
+.Third-card-img{
+     max-width: auto;
+    max-width: auto;
+  overflow: hidden;
+  padding: 67px 75px 0px 75px;
+  margin-bottom: 32px;
+
+}
  
 
