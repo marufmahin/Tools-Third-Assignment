@@ -357,3 +357,38 @@ header{
     justify-content: center;
     align-items: center;
 }
+
+/*Footer Section  */
+
+footer{
+    background-color: #111010;
+    width: auto;
+    height: 449px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-heading{
+    font-size: 48px;
+    font-weight: 800;
+    color: #E55473;
+
+}
+.shop-color{
+    color: #FFFFFF;
+}
+.p1{
+    font-size: 18px;
+    font-weight: normal;
+    color: #FFFFFFE5;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    width: 625px;
+    text-align: center;
+}
+.p2{
+    font-size: 16px;
+    font-weight: normal;
+    color: #FFFFFF66;
+}
